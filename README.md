@@ -11,9 +11,10 @@ This is a [node-gtk](https://github.com/romgrk/node-gtk) application template. U
 
 Developping a node-gtk application requires you to understand the Gtk documentation,
 be sure to read the following resources:
- - https://github.com/romgrk/node-gtk/blob/master/doc/index.md
- - https://developer.gnome.org/gtk4/stable/
- - https://developer.gnome.org/gtk4/4.0/css.html
+ - [Node-GTK - Documentation](https://github.com/romgrk/node-gtk/blob/master/doc/index.md)
+ - [GTK4 - Getting started guide](https://docs.gtk.org/gtk4/getting_started.html)
+ - [GTK4 - Additional documentation](https://docs.gtk.org/gtk4/#extra)
+ - [GTK4 - CSS overview](https://docs.gtk.org/gtk4/css-overview.html)
 
 ### Stylesheet
 
